@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hloska\\source\\repos\\LinearniRegrese\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{270DE4BF-EDAA-49FD-A834-F45B9CDB5AF9}|LinearniRegrese\\LinearniRegrese.csproj|c:\\users\\hloska\\source\\repos\\linearniregrese\\linearniregrese\\readinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270DE4BF-EDAA-49FD-A834-F45B9CDB5AF9}|LinearniRegrese\\LinearniRegrese.csproj|solutionrelative:linearniregrese\\readinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270DE4BF-EDAA-49FD-A834-F45B9CDB5AF9}|LinearniRegrese\\LinearniRegrese.csproj|c:\\users\\hloska\\source\\repos\\linearniregrese\\linearniregrese\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270DE4BF-EDAA-49FD-A834-F45B9CDB5AF9}|LinearniRegrese\\LinearniRegrese.csproj|solutionrelative:linearniregrese\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270DE4BF-EDAA-49FD-A834-F45B9CDB5AF9}|LinearniRegrese\\LinearniRegrese.csproj|c:\\users\\hloska\\source\\repos\\linearniregrese\\linearniregrese\\predictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270DE4BF-EDAA-49FD-A834-F45B9CDB5AF9}|LinearniRegrese\\LinearniRegrese.csproj|solutionrelative:linearniregrese\\predictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270DE4BF-EDAA-49FD-A834-F45B9CDB5AF9}|LinearniRegrese\\LinearniRegrese.csproj|c:\\users\\hloska\\source\\repos\\linearniregrese\\linearniregrese\\housedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{270DE4BF-EDAA-49FD-A834-F45B9CDB5AF9}|LinearniRegrese\\LinearniRegrese.csproj|solutionrelative:linearniregrese\\housedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hloska\\source\\repos\\LinearniRegrese\\LinearniRegrese\\ReadInfo.cs",
+              "RelativeDocumentMoniker": "LinearniRegrese\\ReadInfo.cs",
+              "ToolTip": "C:\\Users\\hloska\\source\\repos\\LinearniRegrese\\LinearniRegrese\\ReadInfo.cs",
+              "RelativeToolTip": "LinearniRegrese\\ReadInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:53:07.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hloska\\source\\repos\\LinearniRegrese\\LinearniRegrese\\Program.cs",
+              "RelativeDocumentMoniker": "LinearniRegrese\\Program.cs",
+              "ToolTip": "C:\\Users\\hloska\\source\\repos\\LinearniRegrese\\LinearniRegrese\\Program.cs",
+              "RelativeToolTip": "LinearniRegrese\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:43:44.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Predictions.cs",
+              "DocumentMoniker": "C:\\Users\\hloska\\source\\repos\\LinearniRegrese\\LinearniRegrese\\Predictions.cs",
+              "RelativeDocumentMoniker": "LinearniRegrese\\Predictions.cs",
+              "ToolTip": "C:\\Users\\hloska\\source\\repos\\LinearniRegrese\\LinearniRegrese\\Predictions.cs",
+              "RelativeToolTip": "LinearniRegrese\\Predictions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:50:06.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HouseData.cs",
+              "DocumentMoniker": "C:\\Users\\hloska\\source\\repos\\LinearniRegrese\\LinearniRegrese\\HouseData.cs",
+              "RelativeDocumentMoniker": "LinearniRegrese\\HouseData.cs",
+              "ToolTip": "C:\\Users\\hloska\\source\\repos\\LinearniRegrese\\LinearniRegrese\\HouseData.cs",
+              "RelativeToolTip": "LinearniRegrese\\HouseData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:45:53.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
